@@ -1,0 +1,19 @@
+{
+  "name": "virtual-keyboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^8.15.0"
+  },
+  "license": "ISC",
+  "scripts": {
+    "lint": "eslint src",
+    "lint:fix": "npm run lint -- --fix"
+  },
+  "author": "trob1e",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trob1e/Virtual-Keyboard.git"
+  }
+}
